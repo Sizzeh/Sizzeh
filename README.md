@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **java, react, bootstrap, css, html etc**
 
+[![Discord Bots](https://top.gg/api/widget/827261307546763314.svg)](https://top.gg/bot/827261307546763314)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sizzeh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sizzeh_" height="30" width="40" /></a>
