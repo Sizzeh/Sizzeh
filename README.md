@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sizzeh&label=Profile%20views&color=0e75b6&style=flat" alt="sizzeh" /> </p>
 
-- 🌱 I’m currently learning **java, react, bootstrap, css, html etc**
+- 🌱 I’m currently learning **java, css, html**
 
 [![Discord Bots](https://top.gg/api/widget/827261307546763314.svg)](https://top.gg/bot/827261307546763314)
 
