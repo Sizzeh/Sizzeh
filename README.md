@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
+<h1 align="center">Hi 👋, I'm Siz</h1>
 <h3 align="center">I do this on my free time I like to learn lots</h3>
 
 - 🌱 I’m currently learning **c#, css, html, js**
